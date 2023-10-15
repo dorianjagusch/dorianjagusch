@@ -2,14 +2,14 @@
 
 I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and dabbling full-stack development.
 
-<div style="display:flex">
-  <div>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev)
-  </div>
-<div>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+    <div style="flex: 1;">
+        [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev)
+    </div>
+</div>
   
 ## About Me
 
