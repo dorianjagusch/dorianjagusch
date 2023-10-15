@@ -4,19 +4,7 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 
 | Most Used Languages                     | My Skills                             |
 |----------------------------------------|--------------------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev) |
-
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td style="border: none;">
-      [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev)
-    </td>
-  </tr>
-</table>
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex&perline=5)](https://skillicons.dev) |
 
 ## About Me
 
