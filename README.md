@@ -26,7 +26,7 @@ Here are some of the projects I'm currently engaged in or have completed:
 
 ## Get in Touch
 
-I'm always keen to connect with fellow developers, whether they're seasoned professionals or fellow newcomers embarking on their coding journey. Reach out to me through [LinkedIn]([https://www.linkedin.com/in/dorianjagusch](https://www.linkedin.com/in/dorian-jagusch)). Collaboration, knowledge exchange, and constructive dialogues are always welcome.
+I'm always keen to connect with fellow developers, whether they're seasoned professionals or fellow newcomers embarking on their coding journey. Reach out to me through [LinkedIn](https://www.linkedin.com/in/dorian-jagusch). Collaboration, knowledge exchange, and constructive dialogues are always welcome.
 
 ## Let's Code Together
 
