@@ -1,6 +1,6 @@
 # Welcome
 
-I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and full-stack development.
+I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and dabbling full-stack development.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev)
 
@@ -12,12 +12,17 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 
 - **Interests**: In addition to my graphics and low-level programming pursuits, I have a keen interest in data science, utilizing data to derive meaningful insights and patterns. Furthermore, I'm currently exploring the realm of full-stack development, bridging the gap between the front-end and back-end aspects of web applications.
 
-## Projects
+## Notable Projects
 
 Here are some of the projects I'm currently engaged in or have completed:
 
-#TODO
+- **[MiniRT (School 42)](https://github.com/dorianjagusch/miniRT)**: A project where we delved into the world of computer graphics, implementing a ray tracing engine, achieving stunning visual effects.
 
+- **[ft_irc (School 42)](https://github.com/dorianjagusch/ft_irc)**: A project focusing on creating an IRC (Internet Relay Chat) server and client, emphasizing network programming and communication protocols.
+
+- **[Minishell (School 42)](https://github.com/dorianjagusch/minishell/)**: An exploration into shell scripting, where we designed and implemented a simple shell from scratch, offering command execution and other shell functionalities.
+
+- **Path Algorithm Visualizer**: Currently, I'm working on a path algorithm visualizer project. This full-stack endeavor combines my passion for coding with my interest in data science to create a tool that visually represents and analyzes pathfinding algorithms.
 
 ## Get in Touch
 
