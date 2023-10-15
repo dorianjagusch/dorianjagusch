@@ -1,6 +1,12 @@
-# Welcome to My GitHub Profile
+# Welcome
 
-Greetings, I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and full-stack development.
+I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and full-stack development.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex&perline=5" />
+  </a>
+</p>
 
 ## About Me
 
@@ -26,3 +32,5 @@ I'm always keen to connect with fellow developers, whether they're seasoned prof
 If you share a passion for coding, graphics, data science, or full-stack development, or if you're intrigued by the unique blend of biology and coding, I invite you to explore my repositories, provide feedback, or even contemplate collaboration on a project. Together, we can innovate and flourish in the ever-evolving realm of code. 🚀
 
 Thank you for visiting, and here's to a future filled with productive coding! 🖥️📊🌐
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats)
