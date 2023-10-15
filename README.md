@@ -2,11 +2,7 @@
 
 I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and full-stack development.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex&perline=5" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex&perline=5)](https://skillicons.dev)
 
 ## About Me
 
