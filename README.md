@@ -32,6 +32,6 @@ I'm always keen to connect with fellow developers, whether they're seasoned prof
 
 ## Let's Code Together
 
-If you share a passion for coding, graphics, data science, or full-stack development, or if you're intrigued by the unique blend of biology and coding, I invite you to explore my repositories, provide feedback, or even contemplate collaboration on a project. Together, we can innovate and flourish in the ever-evolving realm of code. 🚀
+If you share a passion for coding, graphics, data science, or full-stack development, or if you're intrigued by the unique blend of biology and coding, I invite you to explore my repositories, provide feedback, or even contemplate collaboration on a project. 🚀
 
 Thank you for visiting, and here's to a future filled with productive coding! 🖥️📊🌐
