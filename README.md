@@ -5,7 +5,19 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 | Most Used Languages                     | My Skills                             |
 |----------------------------------------|--------------------------------------|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev) |
-  
+
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td style="border: none;">
+      [![My Skills](https://skillicons.dev/icons?i=c,cpp,r,js,nextjs,css,html,react,figma,docker,git,bash,vscode,emacs,linux,regex)](https://skillicons.dev)
+    </td>
+  </tr>
+</table>
+
 ## About Me
 
 - **Scientific Origins**: With a background in evolutionary biology, I've spent years deciphering the intricate mechanisms of life's evolution. This background has honed my analytical thinking and instilled a profound appreciation for complexity.
