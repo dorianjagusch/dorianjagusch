@@ -8,11 +8,11 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 
 ## About Me
 
-- **Scientific Origins**: With a background in evolutionary biology, I've spent years deciphering the intricate mechanisms of life's evolution. This background has honed my analytical thinking and instilled a profound appreciation for complexity.
+- 🌱🐟 **Scientific Origins**: With a background in evolutionary biology, I've spent years deciphering the intricate mechanisms of life's evolution. This background has honed my analytical thinking and instilled a profound appreciation for complexity.
 
-- **Coding Enthusiast**: My journey into the world of coding has been nothing short of exhilarating. The challenge of solving intricate problems and the vast canvas for creative expression that coding provides are what drive me.
+- 👾💻 **Coding Enthusiast**: My journey into the world of coding has been nothing short of exhilarating. The challenge of solving intricate problems and the vast canvas for creative expression that coding provides are what drive me. I have a keen interest in data science, utilizing data to derive meaningful insights and patterns. I'm also currently exploring the realm of full-stack development.
 
-- **Interests**: In addition to my graphics and low-level programming pursuits, I have a keen interest in data science, utilizing data to derive meaningful insights and patterns. Furthermore, I'm currently exploring the realm of full-stack development, bridging the gap between the front-end and back-end aspects of web applications.
+- 🌿🎮 **Interests**: When I am not in school or not coding in my free-time, I spend my time taking care of my house plant collection, solving variant sudokus or just enjoying the good stuff in life like game nights, video games, movies, books, music etc. 🤓
 
 ## Notable Projects
 
