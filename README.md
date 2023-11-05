@@ -23,8 +23,8 @@ Here are some of the projects I'm currently engaged in or have completed:
 - **[ft_irc (School 42)](https://github.com/dorianjagusch/ft_irc)**: A project focusing on creating an IRC (Internet Relay Chat) server and client, emphasizing network programming and communication protocols.
 
 - **[Minishell (School 42)](https://github.com/dorianjagusch/minishell/)**: An exploration into shell scripting, where we designed and implemented a simple shell from scratch, offering command execution and other shell functionalities.
-
-- **Path Algorithm Visualizer**: Currently, I'm working on a path algorithm visualizer project. This full-stack endeavor combines my passion for coding with my interest in data science to create a tool that visually represents and analyzes pathfinding algorithms.
+ 
+- **[Philosophers (School 42)](https://github.com/dorianjagusch/philo/)**: A fascinating journey into the world of synchronization and multithreading. This project challenges you to simulate the Dining Philosophers problem, guiding you to create a program that allows philosophers to think, eat, and avoid conflicts or deadlocks in a shared dining environment. 
 
 ## Get in Touch
 
