@@ -20,7 +20,7 @@ Here are some of the projects I'm currently engaged in or have completed:
 
 - **[MiniRT (School 42)](https://github.com/dorianjagusch/miniRT)**: A project where we delved into the world of computer graphics, implementing a ray tracing engine, achieving stunning visual effects.
 
-- **[ft_irc (School 42)](https://github.com/dorianjagusch/ft_irc)**: A project focusing on creating an IRC (Internet Relay Chat) server and client, emphasizing network programming and communication protocols.
+- **[Ft_irc (School 42)](https://github.com/dorianjagusch/ft_irc)**: A project focusing on creating an IRC (Internet Relay Chat) server and client, emphasizing network programming and communication protocols.
 
 - **[Minishell (School 42)](https://github.com/dorianjagusch/minishell/)**: An exploration into shell scripting, where we designed and implemented a simple shell from scratch, offering command execution and other shell functionalities.
  
