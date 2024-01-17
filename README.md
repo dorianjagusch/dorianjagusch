@@ -1,6 +1,6 @@
 # Welcome
 
-I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and dabbling full-stack development.
+I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary biologist who has transitioned into the world of coding. I'm deeply passionate about unraveling the mysteries of the digital realm, with a particular focus on graphics, data science, and dabbling in full-stack development.
 
 | My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
