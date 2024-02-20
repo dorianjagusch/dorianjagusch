@@ -4,7 +4,7 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 
 | My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
-| [![](https://skillicons.dev/icons?i=c,cpp,r,git,bash,vscode,emacs,linux,regex,docker,js,nextjs,css,html,react,figma&perline=7)](https://skillicons.dev) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch&theme=light)](https://github.com/anuraghazra/github-readme-stats&hide=roff)|
+| [![](https://skillicons.dev/icons?i=c,cpp,python,r,git,bash,vscode,emacs,linux,regex,docker,js,nextjs,css,html,react,figma&perline=7)](https://skillicons.dev) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjagusch&theme=light)](https://github.com/anuraghazra/github-readme-stats&hide=roff)|
 
 ## About Me
 
