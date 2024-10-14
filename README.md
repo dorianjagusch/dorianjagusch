@@ -16,7 +16,9 @@ I'm [Dorian](https://www.linkedin.com/in/dorianjagusch), a former evolutionary b
 
 ## Notable Projects
 
-Here are some of the projects I'm currently engaged in or have completed:
+Here are some of the projects I have completed:
+
+- **[Ft_Transcendece](https://github.com/dorianjagusch/ft_transcendence)**: A full-stack web app written in Vanilla JS on the Frontend and using Python Django on the backend with a PostgresDB. Orchestrated with docker-compose. 
 
 - **[MiniRT](https://github.com/dorianjagusch/miniRT)**: A project where we delved into the world of computer graphics, implementing a ray tracing engine, achieving stunning visual effects.
 
