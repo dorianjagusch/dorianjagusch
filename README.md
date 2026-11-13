@@ -53,7 +53,6 @@ Based in **Helsinki, Finland**
   <img src="https://github-stats-extended.vercel.app/api?username=dorianjagusch&show_icons=true&theme=nord" alt="Dorian's GitHub Stats" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dorianjagusch&layout=compact&theme=nord" alt="Top Languages" width="45%" />
 </p>
----
 
 ## Beyond the Terminal
 
