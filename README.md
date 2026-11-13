@@ -7,7 +7,7 @@ I build resilient full-stack applications, manage cloud-native infrastructure, a
 
 Based in **Helsinki, Finland**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorianjagusch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-jagusch)
 [![Portfolio/Website](https://img.shields.io/badge/Email-Dorian-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dorian.jagusch@gmail.com)
 
 ---
